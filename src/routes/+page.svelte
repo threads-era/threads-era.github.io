@@ -25,6 +25,7 @@
 					placeholder="Tulis audiensmu di sini"
 				/>
 			</div>
+			<label for="">Salin teks di bawah ini ke ChatGPT</label>
 			<pre>Audiens saya adalah [{audiens}]. Buatkan table yang berisi 10 harapan, impian, kefrustasian, dan ketakutan. Kolom tablenya adalah nomor, harapan, impian, kefrustasian, ketakutan</pre>
 		</div>
 		<div class="jarak-atas-bawah">
@@ -49,6 +50,7 @@
 					bind:value={cta}
 				/>
 			</div>
+			<label for="">Salin teks di bawah ini ke ChatGPT</label>
 			<pre>Isi konten:
 
 [{konten}]
