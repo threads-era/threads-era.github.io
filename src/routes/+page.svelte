@@ -1,4 +1,6 @@
 <script>
+	import { browser } from '$app/environment';
+
 	let konten = $state('');
 	let cta = $state('');
 	let audiens = $state('');
