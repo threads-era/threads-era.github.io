@@ -27,6 +27,12 @@
 			</div>
 			<label for="">Salin teks di bawah ini ke ChatGPT</label>
 			<pre>Audiens saya adalah [{audiens}]. Buatkan table yang berisi 10 harapan, impian, kefrustasian, dan ketakutan. Kolom tablenya adalah nomor, harapan, impian, kefrustasian, ketakutan</pre>
+			<p class="iklan">
+				Ingin mendapatkan penghasilan dari Threads? <a
+					target="_blank"
+					href="https://lynk.id/zenhacker/RKeeraV">Pelajari caranya</a
+				>
+			</p>
 		</div>
 		<div class="jarak-atas-bawah">
 			<h2>Percantik Konten</h2>
@@ -59,7 +65,7 @@ Media: Threads (bentuk utas)
 
 Olahkan konten tersebut sehingga diawali dengan hook yang membuat penasaran/kontroversial/heboh yang intinya membuat orang tertarik untuk membaca lebih lanjut. 
 
-Di bagian pembahasan (setelah hook dan sebelum CTA), selain teks pembahasan, jangan lupa sisipkan item-item menarik yang membuat audiens terus membaca. Mungkin bisa disisipkan dengan polling, emoticon, gambar, dan list
+Di bagian pembahasan (setelah hook dan sebelum CTA), selain teks pembahasan, jangan lupa sisipkan item-item menarik yang membuat audiens terus membaca. Mungkin bisa disisipkan dengan polling, emoticon, dan list
 
 Lalu, akhiri dengan Call to Action: [{cta}]</pre>
 		</div>
@@ -96,5 +102,8 @@ Lalu, akhiri dengan Call to Action: [{cta}]</pre>
 		background: beige;
 		padding: 10px;
 		user-select: all;
+	}
+	.iklan {
+		font-size: 30px;
 	}
 </style>
