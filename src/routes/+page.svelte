@@ -67,7 +67,9 @@ Olahkan konten tersebut sehingga diawali dengan hook yang membuat penasaran/kont
 
 Di bagian pembahasan (setelah hook dan sebelum CTA), selain teks pembahasan, jangan lupa sisipkan item-item menarik yang membuat audiens terus membaca. Mungkin bisa disisipkan dengan polling, emoticon, dan list
 
-Lalu, akhiri dengan Call to Action: [{cta}]</pre>
+Lalu, akhiri dengan Call to Action: [{cta}]
+
+Sampaikan konten ini dengan gaya konspirasi</pre>
 		</div>
 	</div>
 </div>
