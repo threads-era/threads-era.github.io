@@ -65,7 +65,7 @@ Media: Threads (bentuk utas)
 
 Olahkan konten tersebut sehingga diawali dengan hook yang membuat penasaran/kontroversial/heboh yang intinya membuat orang tertarik untuk membaca lebih lanjut. 
 
-Di bagian pembahasan (setelah hook dan sebelum CTA), selain teks pembahasan, jangan lupa sisipkan item-item menarik yang membuat audiens terus membaca. Mungkin bisa disisipkan dengan polling, emoticon, dan list
+Di bagian pembahasan (setelah hook dan sebelum CTA), selain teks pembahasan, jangan lupa sisipkan item-item menarik yang membuat audiens terus membaca. Mungkin bisa disisipkan dengan polling, emoticon, dan list (list stylenya harus emoticon, bukan numbered maupun bullet) 
 
 Lalu, akhiri dengan Call to Action: [{cta}]
 
