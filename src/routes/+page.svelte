@@ -30,7 +30,7 @@
 			<p class="iklan">
 				Ingin mendapatkan penghasilan dari Threads? <a
 					target="_blank"
-					href="https://lynk.id/zenhacker/RKeeraV">Pelajari caranya</a
+					href="https://clicky.id/zenzen/cuan-dari-threads">Pelajari caranya</a
 				>
 			</p>
 		</div>
